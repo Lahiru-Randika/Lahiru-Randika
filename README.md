@@ -16,7 +16,7 @@
 
 📫 How to reach me? Just send an email to: lahiru.21@cse.mrt.ac.lk or connect with me on <a href="https://www.linkedin.com/in/lahiru-randika-m/" target="_blank">LinkedIn</a>
 
-## 🌐 [Click here to visit my website](#)
+## 🌐 [Click here to visit my website](https://lahiru-randika.github.io/lahirurandika.github.io/)
 
 ### 🧑‍💻 Skills
 #### ⚙️ Languages
