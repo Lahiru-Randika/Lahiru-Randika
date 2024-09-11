@@ -23,6 +23,7 @@
 - Python
 - Java
 - C++
+- C
 
 #### 🌐 Web Development
 - HTML/CSS
@@ -30,3 +31,10 @@
 - React.js
 - Node.js
 - MongoDB/MySQL
+
+#### 👨 Other
+- Wireshark
+- Bearer
+- Photoshop/Canva
+- Git
+
