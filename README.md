@@ -1,7 +1,6 @@
+![Banner](https://github.com/Lahiru-Randika/Lahiru-Randika/blob/main/Pictures/CoverPic.png)
+
 # @Lahiru-Randika
-
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQE3t9PJJ1ehsg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721078473155?e=1729728000&v=beta&t=c4W81x8T9V6xvheo4ep8TeSpjHSVQa9bk9eylOyGBbo)
-
 
 ### 👨‍🚀 About Me
 👋 Hi, I’m @Lahiru-Randika
